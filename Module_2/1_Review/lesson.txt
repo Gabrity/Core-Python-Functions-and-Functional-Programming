@@ -1,0 +1,9 @@
+Funtion types
+Free functions: functions defined at module scope
+Methods: dunctions defined within a class definition
+
+Argument types
+Positional arguments: matched with formal arguments by position in order
+Keyword arguments: matched with formal arguments by name
+
+functions are objects and can be passed around as such
