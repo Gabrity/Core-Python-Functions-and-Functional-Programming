@@ -1,0 +1,3 @@
+Function metadata like help is lost when decorators are applied, because it wraps around them.
+
+@functools.wraps() - can be used to show the original metadata
